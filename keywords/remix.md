@@ -19,7 +19,7 @@ type: book
 Mount Saint Mary's University, Los Angeles | DylanHerx: https://twitter.com/middlemiddlek?lang=en
 
 ##### Publication Status:
-* **unreviewed draft**
+* **undergoing review**
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * published 
@@ -138,6 +138,15 @@ This short, four-part documentary film is a student-friendly overview of remix t
 * Creator and Affiliation: Joseph Gordon-Levitt
 
 HitRECord is an online open community that encourages participants to contribute their original writing, drawing, music, video, animation, etc. compositions for others to combine, modify, and remix. Founded in 2005 by the actor Joseph Gordon-Levitt, the site has evolved into a community that issues challenges to creators, and creates collaborative projects for commercial distribution; thus far, the hitRECord community has produced CDs, books, short films and a television show. Profits are distributed to creators whose work is featured in each project via a collaboratively-negotiated formula. the hitRECord website and community provides a few different opportunities for work with students. First, it can function as a case study for "remix in the wild"--it's a functioning participatory community that encourages and monetizes remix. Students may examine its working assumptions about authorship and ownership, about fair use, and collaboration. Second, instructors could incorporate the community's creative challenges and active projects, repurposing them as course assignments. Finally, a course could require and support students' participation and contribution to HitRECord. In this last instance, designing accompanying analytical assignments to ensure that students parse their own expectations about the circulation and potential for modification to their own work would help to mitigate any concerns about joining an extensive online community.
+
+##Thompson Rivers Universtiy and OERu. Introduction to Psychology Research Methods Open Online Course
+*Artifact Type: Open, online course
+*Source URL: http://wikieducator.org/Introduction_to_Research_Methods_In_Psychology
+*Artifact permissions:CC-BY-SA
+*Creator and Affiliation: Thompson Rivers University Open Learning
+
+This course was developed as one of Thompson Rivers University's contributions to OERu. It is openly licensed, uses an open textbook and was also written and designed in the open using mediawiki, so invited peer review throughout the design process. It can now be reused and remixed. 
+
 
 
 ## RELATED MATERIALS
