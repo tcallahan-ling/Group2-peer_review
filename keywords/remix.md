@@ -16,7 +16,7 @@ type: book
 # REMIX (Draft)
 
 ## Kim Middleton
-Mount Saint Mary's University, Los Angeles | website?
+Mount Saint Mary's University, Los Angeles | DylanHerx: https://twitter.com/middlemiddlek?lang=en
 
 ##### Publication Status:
 * **unreviewed draft**
