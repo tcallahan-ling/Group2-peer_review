@@ -20,9 +20,11 @@ Mount Saint Mary's University, Los Angeles | DylanHerx: https://twitter.com/midd
 
 ##### Publication Status:
 * **undergoing review**
-* draft version undergoing editorial review
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
+
+tcallahan-ling: I suggest bolding the second line of the publication status.
 
 --- 
 
